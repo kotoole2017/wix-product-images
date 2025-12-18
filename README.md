@@ -1,0 +1,1 @@
+# wix-product-images
